@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fitme/static/css/main.3c147d6c.css",
+    "main.js": "/fitme/static/js/main.ad0bd476.js",
+    "static/media/trainer3.svg": "/fitme/static/media/trainer3.427302673abdbe619b122a9a4ea07be0.svg",
+    "static/media/trainer.svg": "/fitme/static/media/trainer.bd0aa544e65788c5a99df1a2ca76da23.svg",
+    "static/media/trainer2.svg": "/fitme/static/media/trainer2.b37ac2f70901df59c364974dcf3e733d.svg",
+    "static/media/hero.svg": "/fitme/static/media/hero.cac6b80e09fc3ba60412dafc1455bd64.svg",
+    "static/media/client3.png": "/fitme/static/media/client3.174d4436c8e54f88e957.png",
+    "static/media/client1.png": "/fitme/static/media/client1.70b9f138c1de20f7e25a.png",
+    "static/media/client2.png": "/fitme/static/media/client2.af70175aa98292a9b891.png",
+    "static/media/gym.png": "/fitme/static/media/gym.a04456dd6d3e18a90c7f.png",
+    "static/media/cardio.png": "/fitme/static/media/cardio.7980ba9552235019f69c.png",
+    "static/media/yoga.png": "/fitme/static/media/yoga.f1c58e6582a7c7de470c.png",
+    "static/media/amazon.png": "/fitme/static/media/amazon.2109b481663e890540c7.png",
+    "static/media/google.png": "/fitme/static/media/google.3e1ad05d8e82e991d0dc.png",
+    "static/media/apple.png": "/fitme/static/media/apple.d5e6af5a82c121b4cb77.png",
+    "static/media/jordan.png": "/fitme/static/media/jordan.7b01f53b295a35112aef.png",
+    "static/media/adidas.png": "/fitme/static/media/adidas.78c25bd11c26cb8baf8b.png",
+    "index.html": "/fitme/index.html",
+    "main.3c147d6c.css.map": "/fitme/static/css/main.3c147d6c.css.map",
+    "main.ad0bd476.js.map": "/fitme/static/js/main.ad0bd476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c147d6c.css",
+    "static/js/main.ad0bd476.js"
+  ]
+}
