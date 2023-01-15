@@ -10,6 +10,12 @@
 
 - The website is a platform that provides information on personal trainers and fitness plans and programs. Users can view profiles of trainers, learn about the different plans and programs offered. The website was built using React
 
+## Built with:
+
+- React
+- CSS
+- Swiper JS
+
 ## Live Site:
 
 - https://dlxzeus777.github.io/fitme/
